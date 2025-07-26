@@ -71,7 +71,3 @@ You can easily customize the game by:
 - Changing the noose drawing style in the `drawNoose()` method
 - Modifying colors and styling in `styles.css`
 - Adjusting the canvas size in `index.html`
-
-## License
-
-This project is open source and available under the MIT License. 
